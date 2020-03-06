@@ -1,2 +1,2 @@
-# Savvy Coders Single Page Application Example
+# Savvy Coders Stateless Single Page Application Example
 
